@@ -1,0 +1,1 @@
+My work to build a Deep-Q RL network to solve solitaire in an 'optimal' way. Incomplete, but hypothetically the model only needs tuning for desired result. 
